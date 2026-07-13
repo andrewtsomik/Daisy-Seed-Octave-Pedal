@@ -5,7 +5,7 @@ Using a Daisy Seed microcontroller, simulate an octave effects pedal for electri
 
 - **Sub octave** (-12 semitones) and **upper octave** (+12 semitones), each with its own level control
 - **Envelope-gated** octave voices with hysteresis, so quiet passages and note decay don't produce gate chatter/zipper noise
-- **Latching footswitch** — one tap turns the effect on, another tap bypasses it
+- **Latching footswitch** one tap turns the effect on, another tap bypasses it
 - Onboard LED tracks your playing envelope in real time
 - True bypass fallback: bypassed signal is the untouched dry input
 ## Hardware
